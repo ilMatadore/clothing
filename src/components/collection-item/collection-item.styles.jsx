@@ -45,11 +45,14 @@ export const CollectionFooterContainer = styled.div`
 `;
 
 export const NameContainer = styled.span`
-  width: 90%;
+  width: 85%;
   margin-bottom: 15px;
+  margin-left: 10px;
+  
 `;
 
 export const PriceContainer = styled.span`
-  width: 10%;
+  width: 15%;
   text-align: right;
+  margin-right: 10px;
 `;
